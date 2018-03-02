@@ -1,0 +1,11 @@
+c:\users\jack.k.leung\documents\visual studio 2017\Projects\MvcWebCoreTest\MvcWebCoreTest\bin\Debug\netcoreapp2.0\MvcWebCoreTest.deps.json
+c:\users\jack.k.leung\documents\visual studio 2017\Projects\MvcWebCoreTest\MvcWebCoreTest\bin\Debug\netcoreapp2.0\MvcWebCoreTest.runtimeconfig.json
+c:\users\jack.k.leung\documents\visual studio 2017\Projects\MvcWebCoreTest\MvcWebCoreTest\bin\Debug\netcoreapp2.0\MvcWebCoreTest.runtimeconfig.dev.json
+c:\users\jack.k.leung\documents\visual studio 2017\Projects\MvcWebCoreTest\MvcWebCoreTest\bin\Debug\netcoreapp2.0\MvcWebCoreTest.dll
+c:\users\jack.k.leung\documents\visual studio 2017\Projects\MvcWebCoreTest\MvcWebCoreTest\bin\Debug\netcoreapp2.0\MvcWebCoreTest.pdb
+c:\users\jack.k.leung\documents\visual studio 2017\Projects\MvcWebCoreTest\MvcWebCoreTest\obj\Debug\netcoreapp2.0\MvcWebCoreTest.csprojResolveAssemblyReference.cache
+c:\users\jack.k.leung\documents\visual studio 2017\Projects\MvcWebCoreTest\MvcWebCoreTest\obj\Debug\netcoreapp2.0\MvcWebCoreTest.csproj.CoreCompileInputs.cache
+c:\users\jack.k.leung\documents\visual studio 2017\Projects\MvcWebCoreTest\MvcWebCoreTest\obj\Debug\netcoreapp2.0\MvcWebCoreTest.AssemblyInfoInputs.cache
+c:\users\jack.k.leung\documents\visual studio 2017\Projects\MvcWebCoreTest\MvcWebCoreTest\obj\Debug\netcoreapp2.0\MvcWebCoreTest.AssemblyInfo.cs
+c:\users\jack.k.leung\documents\visual studio 2017\Projects\MvcWebCoreTest\MvcWebCoreTest\obj\Debug\netcoreapp2.0\MvcWebCoreTest.dll
+c:\users\jack.k.leung\documents\visual studio 2017\Projects\MvcWebCoreTest\MvcWebCoreTest\obj\Debug\netcoreapp2.0\MvcWebCoreTest.pdb
